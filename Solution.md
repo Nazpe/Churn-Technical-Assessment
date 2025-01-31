@@ -36,7 +36,7 @@ One of the first decisions was that, in the orginal dataset, the status column i
 
 Another thing to consider in the future could be to eliminate individuals who already have a very high churn factor and consider only those with a lower churn factor. However, it's important to note that doing this would result in a imbalanced dataset, and we would need to take the necessary precautions to address this issue.
 
-Another thing is that these data are very interesting for a deeper data exploration, which would be future work.
+Another thing is that this data is very interesting for a deeper data exploration, which would be future work.
 
 Lastly, this model includes information about countries and platforms. In the case of company expansion, these features would need to be reconsidered. However, based on our studies, they do not seem to be highly influential in the predictions. In that case, they could probably be eliminated without much loss of predictive power, at least in the current countries and markets.
 
