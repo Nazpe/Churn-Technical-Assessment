@@ -1,4 +1,4 @@
-# Technical Assessment - Solution Document
+# Churn Technical Assessment - Solution Document
 ### Nuno Pedrosa
  
 This document presents an overview and the final conclusions of the work.
